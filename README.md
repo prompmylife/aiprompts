@@ -1,2 +1,2 @@
-# aiprompts
-keep prompt live and kicking
+a# aiprompts
+keep prompt alive and kicking
