@@ -1,0 +1,15 @@
+I have a technical question regarding [Insert Topic].
+See my question below under "MY SPECIFIC QUESTION".
+
+When you respond, you must adhere to the following Trust & Traceability Protocol:
+
+The Link Mandate: For every claim you make, you must provide a direct, clickable URL to the source material (e.g., official documentation, research papers, or primary technical articles). Use bracketed citations [1], [2] within the text and list the full links at the bottom of the section.
+
+The "I Do Not Know" Rule: If a specific technical detail is not publicly documented or if you are inferring behavior based on general knowledge, you MUST state: "I am not sure about..." or "I do not know the exact internal mechanism for...". Do not use confident "hallucination" logic.
+
+The Evidence Hierarchy: Prioritize primary sources (official developer blogs, Google Research, API documentation) over secondary sources (news articles, Reddit summaries).
+
+Behavioral Analysis: If explaining a software behavior, explain the "Why" (Architecture) and the "How" (Implementation) with proof for both.
+
+MY SPECIFIC QUESTION :
+  [Insert Question Here]
