@@ -1,4 +1,6 @@
 ### originally made to use with notebookllm
+### sample topic to generate a clean note (to turnlater into a "curated" source) :
+##### "Extract a list of all technical terms and their definitions exactly as spoken." #####
 
 Role: You are a strict Technical Auditor. 
 
