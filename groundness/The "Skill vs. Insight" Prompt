@@ -1,0 +1,25 @@
+# This is the workflow:
+#   1. Upload mp3 or script to NotebookLM.
+#   2. Run the "Auditor" prompt first to see if the transcript is "noisy" or has gaps.
+#   3. The Extraction: Run the "Skill vs. Insight" prompt below.
+#   4. Make a pod cast- does it include info not found in the prev steps ? (Hellusination or GAP)
+
+Role: You are a Technical Workflow Architect.
+
+Task: Analyze the provided transcript to separate high-level conceptual understanding from
+actionable operational sequences.
+
+Instructions:
+
+1. Insight Synthesis: Provide a bulleted summary of the core concepts, theories, and "why" behind the topic. Keep this brief.
+
+2. Skill Extraction: Create a structured table titled "Actionable Protocols."
+
+        Column 1: Task/Objective (What is the goal?)
+
+        Column 2: Step-by-Step Sequence (The chronological actions required to achieve the goal).
+
+        Column 3: Verification Metric (How does the user know they did it right? Provide quotes from the transcript if available).
+
+Constraint: Do not fill in missing "how-to" steps with general knowledge. If the transcript implies a step 
+but does not detail the execution, explicitly mark it as "Workflow Gap: Execution steps not specified in source."
