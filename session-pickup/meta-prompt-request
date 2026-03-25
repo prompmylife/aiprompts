@@ -1,0 +1,5 @@
+I need to stop the session, however I want us to be able continue from where we left off. 
+Create a meta-prompt that will allow us to continue from our current point- it should be concise, yet complete, 
+you need to add all the needed information that will serve as the alignment proof to support the intent of the prompt. 
+Before you write it, you should outline to yourself all that would be needed for you to complete the task under this real constraint, 
+that the next time we speak, you will have zero memory of our current conversation.
