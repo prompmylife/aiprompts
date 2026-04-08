@@ -1,1 +1,10 @@
+### Before you allow the AI to start LO1, use a prompt like this:
+
+I am about to give you a complex task. 
+
+Based on my instructions so far, what are the 3 most ambiguous parts 
+where you might have to make a 'best guess' on my behalf ? 
+
+Tell me what those are so I can clarify them now.
+
 
