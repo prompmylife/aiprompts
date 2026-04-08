@@ -1,0 +1,18 @@
+### Parameter Extraction
+### Before you allow the AI to start LO1, use a prompt like this:
+
+I have provided the TPO and the structure. 
+
+Before you generate the first module, list the specific assumptions you are making regarding:
+
+- The technical depth of the 'Knowledge Brief' (Scale 1-10).
+
+- The estimated cognitive load of the 'Blind Test'.
+
+- The stylistic tone (e.g., Academic, Corporate, or Hacker-style).
+
+- The assumed prior knowledge of the learner.
+
+- The lab environent and technical tools the learning might need along the learning path.
+
+Do not generate the content yet. Wait for my confirmation of these parameters.
