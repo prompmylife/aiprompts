@@ -16,3 +16,7 @@ Before you generate the first module, list the specific assumptions you are maki
 - The lab environent and technical tools the learning might need along the learning path.
 
 Do not generate the content yet. Wait for my confirmation of these parameters.
+
+### After prompt
+###### The "Calibration" Step: 
+###### You can then respond: "Change technical depth to 4, and assume zero terminal knowledge."
