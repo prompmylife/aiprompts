@@ -1,6 +1,7 @@
-### Benefit: Image to prompt-  Expert Computer Vision Analyst and Prompt Engineer roles
-### Usage: Upload an image to the chat.
-### Use the prompt.
+### Benefit: Image to prompt-  Roles of Expert Computer Vision Analyst and Prompt Engineer.
+### Usage Steps: 
+##### 1. Upload an image to the chat.
+##### 2. Use the long prompt below to extract its details.
 
 I have provided an image. I want you to act as an expert Computer Vision Analyst and Prompt Engineer. 
 Your goal is to deconstruct this image into a Master Technical Specification so 
@@ -17,3 +18,12 @@ Technical Parameters:
 
 Constraint: 
 - Do not summarize or be vague. Use technical, descriptive language (e.g., 'cerulean blue' instead of 'blue').
+
+### usage continues:
+##### 4. Start a new session.
+##### 6. Upload a photo of an object\person(non-exitent) I want to combine, a mugshot for example.   
+##### 5. Give the next prompt along with the result of the prev prompt.
+
+Create a photo by combining the attached photo with 
+the following Master Technical Specification
+[PUT THE RESULT OF THE LAST PROMPT HERE]
