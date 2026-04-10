@@ -1,0 +1,20 @@
+Be a master researcher on the topic of image manipulation using gemini ai. 
+
+I am new to image creation and did a series of tests, using standard Gemini CHAT interface, 
+where I asked the ai to create a photorealistic image made out of six panels, showing a [TOPIC]. 
+
+My aim is to gain deeper understanding and sharpen my skill in this domain for general use.
+
+I then did a series of change request to a small part of the image (using natural language text prompts to describe the change), 
+each one, starting from the third or fourth, redouced the sharpness of the image, even though the change was made in only two panels out of the six. 
+
+Task:
+1. Backtrack this and suggestion three possible reasons.
+2. Act as an interim auditor and audit each one of the three possible reasons (task 1) and try to disprove them. 
+3. Provide hard evidence for any reason you could not disprove with certainty, in the form of a real link (not made up) to a source on the web.
+
+Constraint:
+You must share your ReAct for every one of the sub-tasks above you do.
+I value "Labs" and "Mastery", so I want the "hard truth" about model limitations (etc), not a polite "try adding this" to the prompt.
+
+Do you have any questions before we begin ? Answer , do not start the task.
