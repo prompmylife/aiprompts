@@ -1,0 +1,19 @@
+### Benefit: Image to prompt-  Expert Computer Vision Analyst and Prompt Engineer roles
+### Usage: Upload an image to the chat.
+### Use the prompt.
+
+I have provided an image. I want you to act as an expert Computer Vision Analyst and Prompt Engineer. 
+Your goal is to deconstruct this image into a Master Technical Specification so 
+that I can recreate it with near-perfect consistency in a different AI model.
+
+Please analyze the image and provide the following:
+
+Technical Parameters: 
+- Suggest an Aspect Ratio, a hypothetical 10-digit Generation Seed, and an 'AI Model Version' (e.g., Cinematic v2.0).
+- Subject Consistency Breakdown: Define the core subject's unique traits (e.g., species, specific facial features, expression, and precise accessories like collar colors or tags).
+- Environmental Logic: Describe the lighting (direction and temperature), the background (depth of field, bokeh style), and the exact color palette.
+- Photography Style: Detail the lens type (e.g., 85mm f/1.8), the focus point, and the specific 'film grain' or 'cinematic' textures used.
+- The Re-Generation Prompt: Write a final, condensed, high-density prompt in English that includes all these details. 
+
+Constraint: 
+- Do not summarize or be vague. Use technical, descriptive language (e.g., 'cerulean blue' instead of 'blue').
