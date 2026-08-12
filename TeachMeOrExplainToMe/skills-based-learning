@@ -1,0 +1,36 @@
+(1)
+I want to combine a [product\app] in labs I create as part of training students. 
+My aim it to be skilled with using  [product\app] for that goal. 
+Suggest three roles for you to best help me, before I provide more info.
+
+(2)
+(e.g. The app was dnsmasq The AI suggested three roles: 
+a. DNS Lab Architect.
+b. dnsmasq SME (Subject Matter Expert).
+c. Training Scenario Designer.)
+
+Use the _____ role, as I first need a mentor.
+I want you to create a TPO for this mentorship, which will be the precustor for create the learning objective along 
+for evidance for "what good looks like". 
+Suggest three instruction design methodologies for me to choose from for you to use, before we draft the TPO.
+
+(3)
+(e.g. The AI suggested:
+a. Capability-Based Design-
+   Core Question- ""What must a skilled lab builder be able to do?"
+b. Mental Model First-
+   Core Question- "How should the learner think about DNS?", The focus is on understanding
+c. Traffic-Flow Design-
+  Core Question- "What traffic flows do I want students to experience?")
+
+I choose ______ methodology, because currently I am training myself on being cable of using [product\app]. 
+I already have most of the deep foundations you presented in the "option _____". 
+Let us approach the TPO, this is something I just wrote from the top of my mind, help my sharpen in, 
+you are welcome to totally revise it, the aim is not suger coiting, but progress :
+________________
+(e.g. example of final TPO:
+Given a Tiny Core Linux system with Internet connectivity, the learner will be able to design, deploy, 
+validate, modify, and troubleshoot dnsmasq-based DNS solutions for networking training labs, 
+including local name resolution, DNS forwarding, and custom DNS records, 
+without relying on non-DNS dnsmasq functions such as DHCP or TFTP.)
+
